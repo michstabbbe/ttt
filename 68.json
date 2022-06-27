@@ -1,14 +1,10 @@
-// 本地接口 clan://协议 简易设定流程：
-// 升级猫影视TV至 2.1.1 Beta5以上
-// 设置 --> 存储权限 --> 允许
-// 设置 --> 当前接口配置 --> 直接黏贴底下的 配置接口设定 或是也可以 透过扫码或浏览器访问网址 --> 设置配置接口
-// 配置接口设定 --> clan://localhost/cat/bd/baddychen0608.json
+baddychen0608
 
 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"clan://cat/bd/baddychen0608.jar",
+"spider":"https://github.com/michstabbbe/ttt/0625.jar;md5;D41D8CD98F00B204E9800998ECF8427E",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL2NhdC9iZC90di9saXZlLnR4dA=="
